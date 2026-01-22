@@ -128,7 +128,7 @@ export interface Translations {
 export const translations: Record<Locale, Translations> = {
     tr: {
         nav: {
-            bungalows: 'Bungalovlar',
+            bungalows: 'Bungalowlar',
             about: 'Hakkımızda',
             journal: 'Günlük',
             gallery: 'Galeri',
@@ -139,14 +139,14 @@ export const translations: Record<Locale, Translations> = {
             welcome: 'Cennete Hoş Geldiniz',
             title: 'Lüksün Hissettirdiği',
             titleHighlight: 'Ağırlıksızlık',
-            description: 'Huzurun ve zarafetin buluştuğu özel butik bungalovlarımıza kaçın.',
+            description: 'Huzurun ve zarafetin buluştuğu özel butik bungalowlarımıza kaçın.',
             reserve: 'Rezervasyon Yapın',
-            explore: 'Bungalovları Keşfedin'
+            explore: 'Bungalowları Keşfedin'
         },
         bungalows: {
-            title: 'Bungalovlarımız',
+            title: 'Bungalowlarımız',
             subtitle: 'Konforun ve doğanın mükemmel uyumu',
-            description: 'Seyr-i Mavi Bungalow\'da her bungalov özenle tasarlanmış, konforun ve doğanın mükemmel uyumunu sunuyor.',
+            description: 'Seyr-i Mavi Bungalow\'da her bungalow özenle tasarlanmış, konforun ve doğanın mükemmel uyumunu sunuyor.',
             viewDetails: 'Detayları Görüntüle',
             from: 'dan itibaren',
             perNight: 'gecelik',
@@ -169,7 +169,7 @@ export const translations: Record<Locale, Translations> = {
         about: {
             title: 'Hakkımızda',
             subtitle: 'Doğa ile iç içe huzur dolu bir kaçış',
-            description: 'Seyr-i Mavi Bungalow, doğanın kalbinde, denizin hemen yanında konumlanan özel bir kaçış noktasıdır. Her detayı özenle tasarlanmış bungalovlarımızda, modern konforun ve doğal güzelliğin mükemmel uyumunu yaşayacaksınız.',
+            description: 'Seyr-i Mavi Bungalow, doğanın kalbinde, denizin hemen yanında konumlanan özel bir kaçış noktasıdır. Her detayı özenle tasarlanmış bungalowlarımızda, modern konforun ve doğal güzelliğin mükemmel uyumunu yaşayacaksınız.',
             description2: 'Havuzun serin sularının yanında, özenle hazırlanmış rahat köşelerde kendinizi evinizde hissedin. Sabahları kuş sesleriyle uyanın, gün boyunca deniz manzarasının tadını çıkarın.',
             description3: 'Bazen bir köşenin huzuru, bir fincan kahvenin sıcaklığı ya da serin bir kokteylin ferahlığı yeterlidir. Seyr-i Mavi size iyi gelecek.',
             stats: {
