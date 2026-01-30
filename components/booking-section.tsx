@@ -133,9 +133,9 @@ export function BookingSection() {
         {/* Contact Info */}
         <div className="mt-12 text-center">
           <p className="text-background/60 text-sm">
-            Telefon ile iletişim kurmak ister misiniz?{" "}
-            <a href="tel:+905327340282" className="text-sky-light hover:text-cyan transition-colors">
-              +90 532 734 02 82
+            {t.booking.contactPhone}{" "}
+            <a href="tel:+905307351297" className="text-sky-light hover:text-cyan transition-colors">
+              +90 530 735 12 97
             </a>
           </p>
         </div>
