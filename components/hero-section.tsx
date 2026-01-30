@@ -30,8 +30,8 @@ export function HeroSection() {
         className="absolute inset-0 -top-20"
       >
         <Image
-          src="/gallery/image-3.jpg"
-          alt="Seyr-i Mavi Bungalow - Luxury beachfront bungalows"
+          src="/gallery/coconut3.jpg"
+          alt="Olympos Coconut Apart ve Pansiyon - Doğa ile iç içe"
           fill
           priority
           className="object-cover"

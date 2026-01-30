@@ -45,7 +45,7 @@ export function Navigation() {
         >
           <Image
             src="/logo.png"
-            alt="Seyr-i Mavi Bungalow"
+            alt="Olympos Coconut Apart ve Pansiyon"
             width={isScrolled ? 140 : 160}
             height={isScrolled ? 50 : 60}
             className="transition-all duration-300"

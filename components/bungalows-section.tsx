@@ -11,7 +11,7 @@ const bungalows = [
     id: 1,
     name: "Deniz Manzaralı Bungalow",
     description: "Denizin hemen yanında, doğa ile iç içe huzur dolu bir kaçış. Sabahları kuş sesleriyle uyanın, gün boyunca deniz manzarasının tadını çıkarın.",
-    image: "/gallery/image-3.jpg",
+    image: "/gallery/coconut3.jpg",
     amenities: ["wifi", "ac", "coffee", "bath"],
     guests: 2,
     size: "45 m²",
@@ -20,7 +20,7 @@ const bungalows = [
     id: 2,
     name: "Havuz Kenarı Bungalow",
     description: "Havuzun serin sularının yanında, özenle hazırlanmış rahat köşelerde kendinizi evinizde hissedin. Her an size özel.",
-    image: "/gallery/image-4.jpg",
+    image: "/gallery/coconut1.png",
     amenities: ["wifi", "ac", "coffee", "pool"],
     guests: 2,
     size: "50 m²",
@@ -29,7 +29,7 @@ const bungalows = [
     id: 3,
     name: "Bahçe Manzaralı Bungalow",
     description: "Yeşillikler içinde, huzurlu bir ortamda dinlenin. Doğanın seslerini dinleyerek kahvenizin tadını çıkarın.",
-    image: "/gallery/image-8.jpg",
+    image: "/gallery/coconut2.png",
     amenities: ["wifi", "ac", "bath", "coffee"],
     guests: 2,
     size: "40 m²",
@@ -69,7 +69,7 @@ export function BungalowsSection() {
             {t.bungalows.title}
           </h2>
           <p className="mt-6 text-muted-foreground text-lg leading-relaxed">
-            Seyr-i Mavi Bungalow'da her bungalov özenle tasarlanmış, konforun ve doğanın mükemmel uyumunu sunuyor.
+            Olympos Coconut Apart ve Pansiyon'da her bungalow özenle tasarlanmış, konforun ve doğanın mükemmel uyumunu sunuyor.
           </p>
         </div>
 

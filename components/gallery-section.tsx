@@ -7,19 +7,18 @@ import { cn } from '@/lib/utils'
 import { useLanguage } from '@/contexts/language-context'
 
 const galleryItems = [
-    { type: "image", src: "/gallery/image-3.jpg", alt: "Seyr-i Mavi Bungalow - Doğa ve deniz" },
-    { type: "image", src: "/gallery/image-1.jpg", alt: "Seyr-i Mavi Bungalow - Huzur anları" },
-    { type: "image", src: "/gallery/image-2.jpg", alt: "Seyr-i Mavi Bungalow - Deniz manzarası" },
-    { type: "video", src: "/gallery/video-1.mp4", alt: "Seyr-i Mavi Bungalow - Turu" },
-    { type: "image", src: "/gallery/image-11.jpg", alt: "Seyr-i Mavi - Kahve keyfi" },
-    { type: "image", src: "/gallery/image-4.jpg", alt: "Seyr-i Mavi - Kokteyl zamanı" },
-    { type: "image", src: "/gallery/image-5.jpg", alt: "Seyr-i Mavi - Rahat köşeler" },
-    { type: "image", src: "/gallery/image-6.jpg", alt: "Seyr-i Mavi - Huzurlu anlar" },
-    { type: "image", src: "/gallery/image-7.jpg", alt: "Seyr-i Mavi - Özel köşeler" },
-    { type: "image", src: "/gallery/image-8.jpg", alt: "Seyr-i Mavi - Ferah alanlar" },
-    { type: "image", src: "/gallery/image-9.jpg", alt: "Seyr-i Mavi - Sıcak atmosfer" },
-    { type: "image", src: "/gallery/image-10.jpg", alt: "Seyr-i Mavi - Keyifli köşeler" },
-    { type: "video", src: "/gallery/video-2.mp4", alt: "Seyr-i Mavi - Havuz ve doğa" },
+    { type: "image", src: "/gallery/coconut3.jpg", alt: "Olympos Coconut - Doğa ve huzur" },
+    { type: "image", src: "/gallery/coconut1.png", alt: "Olympos Coconut - Genel Bakış" },
+    { type: "image", src: "/gallery/coconut2.png", alt: "Olympos Coconut - Detaylar" },
+    { type: "image", src: "/gallery/image-11.jpg", alt: "Olympos Coconut - Kahve keyfi" },
+    { type: "image", src: "/gallery/image-4.jpg", alt: "Olympos Coconut - Kokteyl zamanı" },
+    { type: "image", src: "/gallery/image-5.jpg", alt: "Olympos Coconut - Rahat köşeler" },
+    { type: "image", src: "/gallery/image-6.jpg", alt: "Olympos Coconut - Huzurlu anlar" },
+    { type: "image", src: "/gallery/image-7.jpg", alt: "Olympos Coconut - Özel köşeler" },
+    { type: "image", src: "/gallery/image-8.jpg", alt: "Olympos Coconut - Ferah alanlar" },
+    { type: "image", src: "/gallery/image-9.jpg", alt: "Olympos Coconut - Sıcak atmosfer" },
+    { type: "image", src: "/gallery/image-10.jpg", alt: "Olympos Coconut - Keyifli köşeler" },
+    { type: "video", src: "/gallery/video-2.mp4", alt: "Olympos Coconut - Havuz ve doğa" },
 ]
 
 export function GallerySection() {
@@ -57,7 +56,7 @@ export function GallerySection() {
                         Anılarınızı Keşfedin
                     </h2>
                     <p className="mt-4 text-navy/70 max-w-2xl mx-auto">
-                        Seyr-i Mavi Bungalow'da sizi bekleyen huzur dolu anların görüntüleri
+                        Olympos Coconut Bungalow'da sizi bekleyen huzur dolu anların görüntüleri
                     </p>
                 </div>
 

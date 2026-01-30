@@ -128,7 +128,7 @@ export interface Translations {
 export const translations: Record<Locale, Translations> = {
     tr: {
         nav: {
-            bungalows: 'Bungalowlar',
+            bungalows: 'Odalarımız',
             about: 'Hakkımızda',
             journal: 'Günlük',
             gallery: 'Galeri',
@@ -136,17 +136,17 @@ export const translations: Record<Locale, Translations> = {
             bookNow: 'Rezervasyon'
         },
         hero: {
-            welcome: 'Cennete Hoş Geldiniz',
-            title: 'Lüksün Hissettirdiği',
-            titleHighlight: 'Ağırlıksızlık',
-            description: 'Huzurun ve zarafetin buluştuğu özel butik bungalowlarımıza kaçın.',
+            welcome: 'Doğa ile iç içe bir apart',
+            title: 'Olymposta Harika Bir',
+            titleHighlight: 'Tatil',
+            description: 'Doğa ile iç içe, huzurlu ve keyifli bir konaklama deneyimi için Olympos Coconut Apart ve Pansiyon\'a hoş geldiniz.',
             reserve: 'Rezervasyon Yapın',
-            explore: 'Bungalowları Keşfedin'
+            explore: 'Odaları Keşfedin'
         },
         bungalows: {
             title: 'Bungalowlarımız',
             subtitle: 'Konforun ve doğanın mükemmel uyumu',
-            description: 'Seyr-i Mavi Bungalow\'da her bungalow özenle tasarlanmış, konforun ve doğanın mükemmel uyumunu sunuyor.',
+            description: 'Olympos Coconut Apart ve Pansiyon\'da her bungalow özenle tasarlanmış, konforun ve doğanın mükemmel uyumunu sunuyor.',
             viewDetails: 'Detayları Görüntüle',
             from: 'dan itibaren',
             perNight: 'gecelik',
@@ -169,7 +169,7 @@ export const translations: Record<Locale, Translations> = {
         about: {
             title: 'Hakkımızda',
             subtitle: 'Doğa ile iç içe huzur dolu bir kaçış',
-            description: 'Seyr-i Mavi Bungalow, doğanın kalbinde, denizin hemen yanında konumlanan özel bir kaçış noktasıdır. Her detayı özenle tasarlanmış bungalowlarımızda, modern konforun ve doğal güzelliğin mükemmel uyumunu yaşayacaksınız.',
+            description: 'Olympos Coconut Apart ve Pansiyon, doğanın kalbinde, denizin hemen yanında konumlanan özel bir kaçış noktasıdır. Her detayı özenle tasarlanmış bungalowlarımızda, modern konforun ve doğal güzelliğin mükemmel uyumunu yaşayacaksınız.',
             description2: 'Havuzun serin sularının yanında, özenle hazırlanmış rahat köşelerde kendinizi evinizde hissedin. Sabahları kuş sesleriyle uyanın, gün boyunca deniz manzarasının tadını çıkarın.',
             description3: 'Bazen bir köşenin huzuru, bir fincan kahvenin sıcaklığı ya da serin bir kokteylin ferahlığı yeterlidir. Seyr-i Mavi size iyi gelecek.',
             stats: {
@@ -194,7 +194,7 @@ export const translations: Record<Locale, Translations> = {
         gallery: {
             title: 'Galeri',
             subtitle: 'Anılarınızı Keşfedin',
-            description: 'Seyr-i Mavi Bungalow\'da sizi bekleyen huzur dolu anların görüntüleri'
+            description: 'Olympos Coconut Apart ve Pansiyon\'da sizi bekleyen huzur dolu anların görüntüleri'
         },
         journal: {
             title: 'Günlük',
@@ -253,7 +253,7 @@ export const translations: Record<Locale, Translations> = {
         bungalows: {
             title: 'Our Bungalows',
             subtitle: 'Perfect harmony of comfort and nature',
-            description: 'At Seyr-i Mavi Bungalow, each bungalow is carefully designed, offering the perfect harmony of comfort and nature.',
+            description: 'At Olympos Coconut Apart ve Pansiyon, each bungalow is carefully designed, offering the perfect harmony of comfort and nature.',
             viewDetails: 'View Details',
             from: 'from',
             perNight: 'per night',
@@ -276,7 +276,7 @@ export const translations: Record<Locale, Translations> = {
         about: {
             title: 'About Us',
             subtitle: 'A peaceful escape immersed in nature',
-            description: 'Seyr-i Mavi Bungalow is a special escape point located in the heart of nature, right by the sea. In our meticulously designed bungalows, you will experience the perfect harmony of modern comfort and natural beauty.',
+            description: 'Olympos Coconut Apart ve Pansiyon is a special escape point located in the heart of nature, right by the sea. In our meticulously designed bungalows, you will experience the perfect harmony of modern comfort and natural beauty.',
             description2: 'Feel at home in comfortable corners carefully prepared next to the cool waters of the pool. Wake up to bird songs and enjoy the sea view throughout the day.',
             description3: 'Sometimes the peace of a corner, the warmth of a cup of coffee, or the freshness of a cool cocktail is enough. Seyr-i Mavi will do you good.',
             stats: {
@@ -301,7 +301,7 @@ export const translations: Record<Locale, Translations> = {
         gallery: {
             title: 'Gallery',
             subtitle: 'Discover Your Memories',
-            description: 'Images of peaceful moments awaiting you at Seyr-i Mavi Bungalow'
+            description: 'Images of peaceful moments awaiting you at Olympos Coconut Apart ve Pansiyon'
         },
         journal: {
             title: 'Journal',
@@ -360,7 +360,7 @@ export const translations: Record<Locale, Translations> = {
         bungalows: {
             title: 'Unsere Bungalows',
             subtitle: 'Perfekte Harmonie von Komfort und Natur',
-            description: 'Bei Seyr-i Mavi Bungalow ist jeder Bungalow sorgfältig gestaltet und bietet die perfekte Harmonie von Komfort und Natur.',
+            description: 'Bei Olympos Coconut Apart ve Pansiyon ist jeder Bungalow sorgfältig gestaltet und bietet die perfekte Harmonie von Komfort und Natur.',
             viewDetails: 'Details Anzeigen',
             from: 'ab',
             perNight: 'pro Nacht',
@@ -383,7 +383,7 @@ export const translations: Record<Locale, Translations> = {
         about: {
             title: 'Über Uns',
             subtitle: 'Ein friedlicher Rückzugsort inmitten der Natur',
-            description: 'Seyr-i Mavi Bungalow ist ein besonderer Rückzugsort im Herzen der Natur, direkt am Meer. In unseren sorgfältig gestalteten Bungalows erleben Sie die perfekte Harmonie von modernem Komfort und natürlicher Schönheit.',
+            description: 'Olympos Coconut Apart ve Pansiyon ist ein besonderer Rückzugsort im Herzen der Natur, direkt am Meer. In unseren sorgfältig gestalteten Bungalows erleben Sie die perfekte Harmonie von modernem Komfort und natürlicher Schönheit.',
             description2: 'Fühlen Sie sich wie zu Hause in gemütlichen Ecken, die sorgfältig neben dem kühlen Wasser des Pools vorbereitet wurden. Wachen Sie mit Vogelgezwitscher auf und genießen Sie den ganzen Tag den Meerblick.',
             description3: 'Manchmal reicht die Ruhe einer Ecke, die Wärme einer Tasse Kaffee oder die Frische eines kühlen Cocktails. Seyr-i Mavi wird Ihnen gut tun.',
             stats: {
@@ -408,7 +408,7 @@ export const translations: Record<Locale, Translations> = {
         gallery: {
             title: 'Galerie',
             subtitle: 'Entdecken Sie Ihre Erinnerungen',
-            description: 'Bilder der friedlichen Momente, die Sie bei Seyr-i Mavi Bungalow erwarten'
+            description: 'Bilder der friedlichen Momente, die Sie bei Olympos Coconut Apart ve Pansiyon erwarten'
         },
         journal: {
             title: 'Tagebuch',
@@ -467,7 +467,7 @@ export const translations: Record<Locale, Translations> = {
         bungalows: {
             title: 'Наши Бунгало',
             subtitle: 'Идеальная гармония комфорта и природы',
-            description: 'В Seyr-i Mavi Bungalow каждое бунгало тщательно спроектировано, предлагая идеальную гармонию комфорта и природы.',
+            description: 'В Olympos Coconut Apart ve Pansiyon каждое бунгало тщательно спроектировано, предлагая идеальную гармонию комфорта и природы.',
             viewDetails: 'Подробнее',
             from: 'от',
             perNight: 'за ночь',
@@ -490,7 +490,7 @@ export const translations: Record<Locale, Translations> = {
         about: {
             title: 'О Нас',
             subtitle: 'Спокойный отдых в окружении природы',
-            description: 'Seyr-i Mavi Bungalow - это особое место для отдыха в самом сердце природы, прямо у моря. В наших тщательно спроектированных бунгало вы испытаете идеальную гармонию современного комфорта и природной красоты.',
+            description: 'Olympos Coconut Apart ve Pansiyon - это особое место для отдыха в самом сердце природы, прямо у моря. В наших тщательно спроектированных бунгало вы испытаете идеальную гармонию современного комфорта и природной красоты.',
             description2: 'Почувствуйте себя как дома в уютных уголках, тщательно подготовленных рядом с прохладными водами бассейна. Просыпайтесь под пение птиц и наслаждайтесь видом на море в течение всего дня.',
             description3: 'Иногда достаточно покоя уголка, тепла чашки кофе или свежести прохладного коктейля. Seyr-i Mavi пойдет вам на пользу.',
             stats: {
@@ -515,7 +515,7 @@ export const translations: Record<Locale, Translations> = {
         gallery: {
             title: 'Галерея',
             subtitle: 'Откройте для себя воспоминания',
-            description: 'Изображения спокойных моментов, ожидающих вас в Seyr-i Mavi Bungalow'
+            description: 'Изображения спокойных моментов, ожидающих вас в Olympos Coconut Apart ve Pansiyon'
         },
         journal: {
             title: 'Дневник',

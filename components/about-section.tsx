@@ -15,7 +15,7 @@ export function AboutSection() {
             <div className="relative aspect-[4/5] lg:aspect-[3/4]">
               <Image
                 src="/gallery/image-2.jpg"
-                alt="Seyr-i Mavi Bungalow"
+                alt="Olympos Coconut Apart ve Pansiyon"
                 fill
                 className="object-cover rounded-lg"
                 sizes="(max-width: 1024px) 100vw, 50vw"
@@ -56,7 +56,7 @@ export function AboutSection() {
               </p>
               <p>
                 Bazen bir köşenin huzuru, bir fincan kahvenin sıcaklığı ya da serin bir kokteylin ferahlığı
-                yeterlidir. Seyr-i Mavi size iyi gelecek.
+                yeterlidir. Olympos Coconut size iyi gelecek.
               </p>
             </div>
             <div className="mt-10 flex flex-col sm:flex-row gap-8">

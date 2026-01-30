@@ -18,10 +18,10 @@ const inter = Inter({
 })
 
 export const metadata: Metadata = {
-  title: 'Seyr-i Mavi Bungalow | Lüks Butik Tatil',
-  description: 'Doğanın kalbinde, denizin hemen yanında konumlanan özel bir kaçış noktası. Seyr-i Mavi Bungalow\'da huzur dolu anlar sizi bekliyor.',
+  title: 'Olympos Coconut Apart ve Pansiyon | Doğa ile iç içe bir tatil',
+  description: 'Doğa ile iç içe, huzurlu ve keyifli bir konaklama deneyimi. Olympos Coconut Apart ve Pansiyon\'da unutulmaz bir tatil sizi bekliyor.',
   generator: 'v0.app',
-  keywords: ['butik otel', 'bungalow', 'deniz manzarası', 'tatil', 'Antalya', 'Seyr-i Mavi'],
+  keywords: ['apart', 'pansiyon', 'olympos', 'deniz manzarası', 'tatil', 'Antalya', 'Olympos Coconut', 'doğa'],
   icons: {
     icon: [
       {
