@@ -4,6 +4,7 @@ import { Playfair_Display, Inter } from 'next/font/google'
 import { Analytics } from '@vercel/analytics/next'
 import { LanguageProvider } from '@/contexts/language-context'
 import './globals.css'
+import { WhatsAppButton } from '@/components/whatsapp-button'
 
 const playfair = Playfair_Display({
   subsets: ["latin"],
@@ -46,6 +47,7 @@ export default function RootLayout({
       <body className="font-sans antialiased">
         <LanguageProvider>
           {children}
+          <WhatsAppButton />
         </LanguageProvider>
         <Analytics />
       </body>
