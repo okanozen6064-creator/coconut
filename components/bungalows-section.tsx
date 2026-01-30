@@ -9,7 +9,7 @@ import { useLanguage } from "@/contexts/language-context"
 const bungalows = [
   {
     id: 1,
-    name: "Deniz Manzaralı Bungalow",
+    name: "Deniz Manzaralı Apart",
     description: "Denizin hemen yanında, doğa ile iç içe huzur dolu bir kaçış. Sabahları kuş sesleriyle uyanın, gün boyunca deniz manzarasının tadını çıkarın.",
     image: "/gallery/coconut3.jpg",
     amenities: ["wifi", "ac", "coffee", "bath"],
@@ -18,7 +18,7 @@ const bungalows = [
   },
   {
     id: 2,
-    name: "Havuz Kenarı Bungalow",
+    name: "Havuz Kenarı Apart",
     description: "Havuzun serin sularının yanında, özenle hazırlanmış rahat köşelerde kendinizi evinizde hissedin. Her an size özel.",
     image: "/gallery/coconut1.png",
     amenities: ["wifi", "ac", "coffee", "pool"],
@@ -27,7 +27,7 @@ const bungalows = [
   },
   {
     id: 3,
-    name: "Bahçe Manzaralı Bungalow",
+    name: "Bahçe Manzaralı Apart",
     description: "Yeşillikler içinde, huzurlu bir ortamda dinlenin. Doğanın seslerini dinleyerek kahvenizin tadını çıkarın.",
     image: "/gallery/coconut2.png",
     amenities: ["wifi", "ac", "bath", "coffee"],
@@ -69,7 +69,7 @@ export function BungalowsSection() {
             {t.bungalows.title}
           </h2>
           <p className="mt-6 text-muted-foreground text-lg leading-relaxed">
-            Olympos Coconut Apart ve Pansiyon'da her bungalow özenle tasarlanmış, konforun ve doğanın mükemmel uyumunu sunuyor.
+            Olympos Coconut Apart ve Pansiyon'da her apart özenle tasarlanmış, konforun ve doğanın mükemmel uyumunu sunuyor.
           </p>
         </div>
 

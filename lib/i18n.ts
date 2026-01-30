@@ -144,24 +144,24 @@ export const translations: Record<Locale, Translations> = {
             explore: 'Odaları Keşfedin'
         },
         bungalows: {
-            title: 'Bungalowlarımız',
+            title: 'Apartlarımız',
             subtitle: 'Konforun ve doğanın mükemmel uyumu',
-            description: 'Olympos Coconut Apart ve Pansiyon\'da her bungalow özenle tasarlanmış, konforun ve doğanın mükemmel uyumunu sunuyor.',
+            description: 'Olympos Coconut Apart ve Pansiyon\'da her apart özenle tasarlanmış, konforun ve doğanın mükemmel uyumunu sunuyor.',
             viewDetails: 'Detayları Görüntüle',
             from: 'dan itibaren',
             perNight: 'gecelik',
             guests: 'Kişi',
             items: {
                 oceanView: {
-                    name: 'Deniz Manzaralı Bungalow',
+                    name: 'Deniz Manzaralı Apart',
                     description: 'Denizin hemen yanında, doğa ile iç içe huzur dolu bir kaçış. Sabahları kuş sesleriyle uyanın, gün boyunca deniz manzarasının tadını çıkarın.'
                 },
                 poolside: {
-                    name: 'Havuz Kenarı Bungalow',
+                    name: 'Havuz Kenarı Apart',
                     description: 'Havuzun serin sularının yanında, özenle hazırlanmış rahat köşelerde kendinizi evinizde hissedin. Her an size özel.'
                 },
                 garden: {
-                    name: 'Bahçe Manzaralı Bungalow',
+                    name: 'Bahçe Manzaralı Apart',
                     description: 'Yeşillikler içinde, huzurlu bir ortamda dinlenin. Doğanın seslerini dinleyerek kahvenizin tadını çıkarın.'
                 }
             }
